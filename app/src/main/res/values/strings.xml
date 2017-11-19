@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Course Selection App</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="login_hint">Enter a user name</string>
+    <string name="password_hint">Enter your password</string>
+    <string name="login_btn_txt">Login</string>
+
+
+
+
+</resources>

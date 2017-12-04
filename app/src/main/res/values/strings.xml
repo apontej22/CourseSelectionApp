@@ -6,7 +6,43 @@
     <string name="password_hint">Enter your password</string>
     <string name="login_btn_txt">Login</string>
 
+    <string name="errMessageLogin">Invalid Login. Please try again.</string>
+    <string name="errMessagePassword">Invalid Password. Please try again.</string>
+    <string name="FirstName">First Name</string>
+    <string name="LastName">Last Name</string>
+    <string name="Phone">Phone</string>
+    <string name="txtBday">Date of Birth</string>
+    <string-array name="Month">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>September</item>
+        <item>August</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
 
+
+    <string name="txtDay">Day</string>
+    <string name="txtYear">Year</string>
+    <string name="cert">Certificate</string>
+    <string name="twoYr">Associate Degree</string>
+    <string name="txtMajor">Major</string>
+    <string name="btnNext">Next</string>
+    <string-array name="lstCert">
+        <item>Android Certificate</item>
+        <item>iOS Mobile Certificate</item>
+    </string-array>
+    <string-array name="lstMajor">
+        <item>Digital Media</item>
+        <item>Mobile Application Development</item>
+        <item>Web Development</item>
+    </string-array>
 
 
 </resources>
